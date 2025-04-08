@@ -1,0 +1,31 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"atomic": "cpp",
+			"algorithm": "cpp",
+			"*.tcc": "cpp"
+		}
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			
+			
+			
+			
+
+		]
+	}
+}

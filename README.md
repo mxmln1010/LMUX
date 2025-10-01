@@ -31,3 +31,5 @@ Standard 2,4 GHz [Fernbedienung](https://de.aliexpress.com/item/1005005821846889
 - **Drehregler:** Taster mit zusätzlicher  Drehfunktion 
 - **Handy:** Zukunftsmusik
 
+
+odksda
